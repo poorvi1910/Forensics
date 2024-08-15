@@ -88,4 +88,3 @@ print(decoded_message_str)
 decoded_message_str: Converts the list of decoded rows into a single string, with each row separated by a newline (\n).
 print(decoded_message_str): Prints the final decoded message to the console.
 
-## CTFzone: losing information
