@@ -25,6 +25,8 @@ Now that we get the encrypted file, we can use the encryption key, iv and encryp
 OpenSSL is an open-source command line tool that is commonly used to generate private keys, create CSRs, install your SSL/TLS certificate, and identify certificate information
 ```
 Command for decryption:
+
 ![image](https://github.com/user-attachments/assets/f2c31add-9f7c-4cbd-b643-0055d66c4616)
 
-However, looking at the file signature, we can 
+However, looking at the file signature, we can see that its supposed to be a png
+changing the file extension and opening the file, we get the flag
